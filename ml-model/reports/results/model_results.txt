@@ -1,0 +1,20 @@
+===== MODEL EVALUATION =====
+
+Accuracy : 0.9824
+Precision: 0.9821
+Recall   : 0.9821
+F1 Score : 0.9821
+
+===== CONFUSION MATRIX =====
+[[113   2]
+ [  2 110]]
+
+===== CLASSIFICATION REPORT =====
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       115
+           1       0.98      0.98      0.98       112
+
+    accuracy                           0.98       227
+   macro avg       0.98      0.98      0.98       227
+weighted avg       0.98      0.98      0.98       227

@@ -1,0 +1,15 @@
+Dataset Size: 1134
+
+Healthy Samples: 574
+Parkinson Samples: 560
+
+Model: Random Forest
+
+Accuracy : 98.24%
+Precision: 98.21%
+Recall   : 98.21%
+F1 Score : 98.21%
+
+Confusion Matrix:
+[[113   2]
+ [  2 110]]
